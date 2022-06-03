@@ -7,6 +7,7 @@ L'ensemble de données est créé manuellement en exécutant le fichier python I
   Il est facilement possible de rajouter les autres signes ou meme encore une autre forme de data.<br><br>
   
   Le modèle a été réalisé uniquement avec l'aide du tutoriel <a href="https://www.youtube.com/c/NicholasRenotte">Nicholas Renotte</a> C'est une inspiration !<br>
-  <img src="téléchargement.png">
+  <img src="téléchargement.png"><br><br>
+  <img src="Capture.png">
 
 <p/>
