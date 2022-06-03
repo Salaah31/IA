@@ -8,6 +8,6 @@ L'ensemble de données est créé manuellement en exécutant le fichier python I
   
   Le modèle a été réalisé uniquement avec l'aide du tutoriel <a href="https://www.youtube.com/c/NicholasRenotte">Nicholas Renotte</a> C'est une inspiration !<br>
   <img src="téléchargement.png"><br><br>
-  <img src="Capture.png">
+  <img src="Capture.jpg">
 
 <p/>
